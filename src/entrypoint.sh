@@ -45,7 +45,7 @@ main() {
   fi
 
   download
-  #lint
+  lint
   package
   upload
 }
